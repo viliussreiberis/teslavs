@@ -44,6 +44,10 @@ const Wrap = styled.div`
   background-size: cover;
   background-position: right;
   background-repeat: no-repeat;
+
+  @media (max-width: 1200px) {
+    background-position: center;
+  }
 `;
 
 const ItemText = styled.div`
