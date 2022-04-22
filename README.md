@@ -1,1 +1,2 @@
-Project made by educational purposes
+# Tesla clone by Vilius Sreiberis
+
